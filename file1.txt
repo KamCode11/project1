@@ -1,0 +1,2 @@
+second file in git repository
+editing after added to staging area
